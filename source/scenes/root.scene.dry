@@ -1,11 +1,15 @@
-title: Root Scene
+title: Inside the H-Dome
 new-page: true
 
-This is the root scene of "Dendry-starter-pack". The root scene is normally used
-as a hub: the choices allow you to go to different sections of your
-story. In shorter works it may just function as the first scene in the
-game, sending the player off into the tree of choices. If the root
-scene doesn't have any choices that it can display, the game is over.
+The roofed, cavernous grounds of Foundlings Field at Hering Union Station, known 
+to Rosemont home fans as the H-Dome. Much of the old building was hollowed out 
+after the Rosemont and Lernoult national rail companies merged: the ticket 
+offices, platforms, baggage rooms...But they kept the dome and most of the other 
+sick ass architecture. Like the Corinthean columns, those rule.
+
+Now the monumental glass-and-steel H-Dome, with its solid brick and limestone 
+facade and sick ass Corinthean columns, towers over Rosemont's South Side as its 
+hallowed, only somewhat leaky, temple of baseball.
 
 # Scenes with a top tag can be displayed here.
 - #top
